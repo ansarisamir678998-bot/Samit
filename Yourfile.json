@@ -22,5 +22,12 @@
         "key": "CJYEIJDJITEJ5747GR74",
         "expirydate": "17-03-2026",
         "Allowoffline": false
+    },
+
+  {
+        "device_id": "51e5f39ffe4b28d2",
+        "key": "SSSS",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
