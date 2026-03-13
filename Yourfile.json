@@ -14,7 +14,13 @@
     {
         "device_id": "6e70608e7cf4630a",
         "key": "Samirplan",
-        "expirydate": "16-03-2026",
+        "expirydate": "14-03-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6e70608e7cf4630a",
+        "key": "CJYEIJDJITEJ5747GR74",
+        "expirydate": "17-03-2026",
         "Allowoffline": false
     }
 ]
